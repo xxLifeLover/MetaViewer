@@ -12,6 +12,8 @@ The PyTorch implementation of the paper [MetaViewer: Towards A Unified Multi-Vie
 
 ### Clustering demo on the CALTECH101_20 dataset
 
+Please download the dataset and checkpoints(option) and replace the corresponding folders before training and testing.
+
 Train:  
 ```python
 python main.py --model MetaViewer --channels -1 500 500 2000 256 --meta_channels -1 32
