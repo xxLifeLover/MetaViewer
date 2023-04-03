@@ -12,7 +12,7 @@ The PyTorch implementation of the paper [MetaViewer: Towards A Unified Multi-Vie
 
 ### Clustering demo on the CALTECH101_20 dataset
 
-Please download the [dataset & checkpoints(option)](https://drive.google.com/drive/folders/1CJea-3DSZvebw_3INZRQ6vmFUMlAEQQV?usp=share_link) and replace the corresponding folders before training and testing.
+Please download the [dataset & checkpoints(option)](https://drive.google.com/drive/folders/1CJea-3DSZvebw_3INZRQ6vmFUMlAEQQV?usp=share_link) and replace the corresponding folders before training/testing.
 
 Train:  
 ```python
