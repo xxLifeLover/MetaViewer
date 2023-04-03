@@ -38,4 +38,4 @@ python main.py --model MetaViewer --channels -1 500 500 2000 256 --meta_channels
 Work&Code is inspired by [AE2-Nets](https://github.com/willow617/AE2-Nets), [MFLVC](https://github.com/SubmissionsIn/MFLVC), [CPM_Nets](https://github.com/hanmenghan/CPM_Nets), [GBML](https://github.com/sungyubkim/GBML) ... 
 
 ### Contact
-If you have any questions, feel free to contact Ren Wang ([xxlifelover@gmail.com](xxlifelover@gmail.com)). 
+If you have any questions, feel free to contact Ren Wang (xxlifelover@gmail.com). 
