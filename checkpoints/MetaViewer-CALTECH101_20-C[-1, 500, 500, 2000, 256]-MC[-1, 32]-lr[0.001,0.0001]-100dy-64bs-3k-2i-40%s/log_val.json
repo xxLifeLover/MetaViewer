@@ -1,0 +1,8 @@
+{"epoch": 0, "clu_acc_avg": "31.02", "clu_acc_std": "01.12", "clu_nmi_avg": "45.03", "clu_nmi_std": "01.37", "clu_ar_avg": "19.99", "clu_ar_std": "00.97"}
+{"epoch": 100, "clu_acc_avg": "46.23", "clu_acc_std": "03.02", "clu_nmi_avg": "66.32", "clu_nmi_std": "01.50", "clu_ar_avg": "35.15", "clu_ar_std": "02.72"}
+{"epoch": 200, "clu_acc_avg": "45.05", "clu_acc_std": "02.14", "clu_nmi_avg": "65.51", "clu_nmi_std": "01.40", "clu_ar_avg": "34.77", "clu_ar_std": "03.19"}
+{"epoch": 300, "clu_acc_avg": "43.52", "clu_acc_std": "03.18", "clu_nmi_avg": "65.08", "clu_nmi_std": "01.23", "clu_ar_avg": "33.15", "clu_ar_std": "02.40"}
+{"epoch": 400, "clu_acc_avg": "45.69", "clu_acc_std": "02.60", "clu_nmi_avg": "66.34", "clu_nmi_std": "01.52", "clu_ar_avg": "33.75", "clu_ar_std": "02.10"}
+{"epoch": 500, "clu_acc_avg": "44.09", "clu_acc_std": "03.00", "clu_nmi_avg": "65.21", "clu_nmi_std": "01.56", "clu_ar_avg": "33.05", "clu_ar_std": "02.59"}
+{"epoch": 600, "clu_acc_avg": "44.97", "clu_acc_std": "02.09", "clu_nmi_avg": "65.13", "clu_nmi_std": "01.34", "clu_ar_avg": "33.01", "clu_ar_std": "02.60"}
+{"epoch": 700, "clu_acc_avg": "43.18", "clu_acc_std": "02.63", "clu_nmi_avg": "65.73", "clu_nmi_std": "01.55", "clu_ar_avg": "32.57", "clu_ar_std": "02.38"}
