@@ -27,11 +27,23 @@ python main.py --model MetaViewer --channels -1 500 500 2000 256 --meta_channels
 
 ### Citation (waiting for updates)
 ```
-@article{wang2023metaviewer,
-  title={MetaViewer: Towards A Unified Multi-View Representation},
-  author={Wang, Ren and Sun, Haoliang and Ma, Yuling and Xi, Xiaoming and Yin, Yilong},
-  journal={arXiv preprint arXiv:2303.06329},
-  year={2023}
+@inproceedings{DBLP:conf/cvpr/0011SMXY23,
+  author       = {Ren Wang and
+                  Haoliang Sun and
+                  Yuling Ma and
+                  Xiaoming Xi and
+                  Yilong Yin},
+  title        = {MetaViewer: Towards {A} Unified Multi-View Representation},
+  booktitle    = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition,
+                  {CVPR} 2023, Vancouver, BC, Canada, June 17-24, 2023},
+  pages        = {11590--11599},
+  publisher    = {{IEEE}},
+  year         = {2023},
+  url          = {https://doi.org/10.1109/CVPR52729.2023.01115},
+  doi          = {10.1109/CVPR52729.2023.01115},
+  timestamp    = {Tue, 29 Aug 2023 15:44:40 +0200},
+  biburl       = {https://dblp.org/rec/conf/cvpr/0011SMXY23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
